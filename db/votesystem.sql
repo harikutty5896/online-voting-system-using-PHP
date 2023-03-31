@@ -43,7 +43,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `photo`, `created_on`) VALUES
-(1, 'harie', 'Admin@123', 'Neovic', 'Devierte', 'facebook-profile-image.jpeg', '2018-04-02');
+(1, 'harie', 'Admin@123', 'Hariharan', 'Elancheliyan', 'facebook-profile-image.jpeg', '2018-04-02');
 
 -- --------------------------------------------------------
 
